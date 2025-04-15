@@ -1,0 +1,29 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css",
+      "PackagePath": "staticwebassets\\PRODUCTOS_COMPRAS_FULL_STACK.3mh63rm7sj.bundle.scp.css"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PRODUCTOS_COMPRAS_FULL_STACK.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.PRODUCTOS_COMPRAS_FULL_STACK.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.build.PRODUCTOS_COMPRAS_FULL_STACK.props",
+      "PackagePath": "build\\PRODUCTOS_COMPRAS_FULL_STACK.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildMultiTargeting.PRODUCTOS_COMPRAS_FULL_STACK.props",
+      "PackagePath": "buildMultiTargeting\\PRODUCTOS_COMPRAS_FULL_STACK.props"
+    },
+    {
+      "Id": "obj\\Debug\\net8.0\\staticwebassets\\msbuild.buildTransitive.PRODUCTOS_COMPRAS_FULL_STACK.props",
+      "PackagePath": "buildTransitive\\PRODUCTOS_COMPRAS_FULL_STACK.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

@@ -1,0 +1,16 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/PRODUCTOS_COMPRAS_FULL_STACK/PRODUCTOS_COMPRAS_FULL_STACK.3mh63rm7sj.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PRODUCTOS_COMPRAS_FULL_STACK.3mh63rm7sj.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"3mh63rm7sj"},{"Name":"integrity","Value":"sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="},{"Name":"label","Value":"_content/PRODUCTOS_COMPRAS_FULL_STACK/PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1146"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 09:26:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/PRODUCTOS_COMPRAS_FULL_STACK/PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\PRODUCTOS_COMPRAS_FULL_STACK.3mh63rm7sj.bundle.scp.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1146"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\u0022"},{"Name":"Last-Modified","Value":"Tue, 08 Apr 2025 09:26:16 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

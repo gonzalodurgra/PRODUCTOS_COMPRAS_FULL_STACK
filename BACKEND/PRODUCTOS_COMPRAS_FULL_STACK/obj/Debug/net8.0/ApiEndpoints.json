@@ -1,0 +1,269 @@
+[
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.OrdenesController",
+    "Method": "GetCompra",
+    "RelativePath": "api/Ordenes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PRODUCTOS_COMPRAS_FULL_STACK.Models.Orden, PRODUCTOS_COMPRAS_FULL_STACK, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.OrdenesController",
+    "Method": "PostCompra",
+    "RelativePath": "api/Ordenes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "orden",
+        "Type": "PRODUCTOS_COMPRAS_FULL_STACK.Models.Orden",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.OrdenesController",
+    "Method": "GetCompraById",
+    "RelativePath": "api/Ordenes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.OrdenesController",
+    "Method": "PutCompra",
+    "RelativePath": "api/Ordenes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "c",
+        "Type": "PRODUCTOS_COMPRAS_FULL_STACK.Models.Orden",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.OrdenesController",
+    "Method": "DeleteCompra",
+    "RelativePath": "api/Ordenes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosController",
+    "Method": "GetProducto",
+    "RelativePath": "api/Productos",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PRODUCTOS_COMPRAS_FULL_STACK.Models.Producto, PRODUCTOS_COMPRAS_FULL_STACK, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosController",
+    "Method": "PostProducto",
+    "RelativePath": "api/Productos",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "producto",
+        "Type": "PRODUCTOS_COMPRAS_FULL_STACK.Models.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosController",
+    "Method": "GetProductoById",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosController",
+    "Method": "PutProducto",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "p",
+        "Type": "PRODUCTOS_COMPRAS_FULL_STACK.Models.Producto",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosController",
+    "Method": "DeleteProducto",
+    "RelativePath": "api/Productos/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosOrdenesController",
+    "Method": "GetProductoOrden",
+    "RelativePath": "api/ProductosOrdenes",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": [
+      {
+        "Type": "System.Collections.Generic.List\u00601[[PRODUCTOS_COMPRAS_FULL_STACK.Models.ProductoOrden, PRODUCTOS_COMPRAS_FULL_STACK, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "MediaTypes": [
+          "text/plain",
+          "application/json",
+          "text/json"
+        ],
+        "StatusCode": 200
+      }
+    ]
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosOrdenesController",
+    "Method": "PostProductoOrden",
+    "RelativePath": "api/ProductosOrdenes",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "p",
+        "Type": "PRODUCTOS_COMPRAS_FULL_STACK.Models.ProductoOrden",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosOrdenesController",
+    "Method": "GetProductoOrdenById",
+    "RelativePath": "api/ProductosOrdenes/{id}",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosOrdenesController",
+    "Method": "PutProductoOrden",
+    "RelativePath": "api/ProductosOrdenes/{id}",
+    "HttpMethod": "PUT",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      },
+      {
+        "Name": "p",
+        "Type": "PRODUCTOS_COMPRAS_FULL_STACK.Models.ProductoOrden",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "PRODUCTOS_COMPRAS_FULL_STACK.Controllers.ProductosOrdenesController",
+    "Method": "DeleteProductoOrden",
+    "RelativePath": "api/ProductosOrdenes/{id}",
+    "HttpMethod": "DELETE",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "id",
+        "Type": "System.Int32",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  }
+]

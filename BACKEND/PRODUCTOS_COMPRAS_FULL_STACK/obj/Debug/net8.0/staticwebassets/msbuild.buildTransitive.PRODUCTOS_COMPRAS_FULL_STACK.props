@@ -1,0 +1,3 @@
+﻿<Project>
+  <Import Project="..\buildMultiTargeting\PRODUCTOS_COMPRAS_FULL_STACK.props" />
+</Project>

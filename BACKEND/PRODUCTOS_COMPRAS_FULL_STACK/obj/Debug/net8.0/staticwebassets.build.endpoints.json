@@ -1,0 +1,88 @@
+{
+  "Version": 1,
+  "ManifestType": "Build",
+  "Endpoints": [
+    {
+      "Route": "PRODUCTOS_COMPRAS_FULL_STACK.3mh63rm7sj.styles.css",
+      "AssetFile": "PRODUCTOS_COMPRAS_FULL_STACK.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:26:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mh63rm7sj"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="
+        },
+        {
+          "Name": "label",
+          "Value": "PRODUCTOS_COMPRAS_FULL_STACK.styles.css"
+        }
+      ]
+    },
+    {
+      "Route": "PRODUCTOS_COMPRAS_FULL_STACK.styles.css",
+      "AssetFile": "PRODUCTOS_COMPRAS_FULL_STACK.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:26:16 GMT"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="
+        }
+      ]
+    }
+  ]
+}

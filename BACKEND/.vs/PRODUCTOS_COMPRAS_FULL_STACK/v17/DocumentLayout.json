@@ -1,0 +1,450 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\models\\productoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\models\\productoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\controllers\\productoscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\dao\\productoordendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\dao\\productoordendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\models\\orden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\dao\\ordendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\dao\\ordendao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\dao\\productodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\controllers\\productosordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\controllers\\productosordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\controllers\\ordenescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250415075226_Fecha_Orden_Corregida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250415075226_Fecha_Orden_Corregida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\models\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\models\\entityconfigurations\\productoordenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\models\\entityconfigurations\\productoordenconfiguration.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\models\\productoordencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\models\\productoordencontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\20250411104031_productoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\20250411104031_productoorden.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\20250411093707_orden_id_no_requerido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\20250411093707_orden_id_no_requerido.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\20250409082729_tabla_orden_sin_precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\20250409082729_tabla_orden_sin_precio.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\20250409095545_tabla_orden_total_float_columna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\20250409095545_tabla_orden_total_float_columna.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\productocompracontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\productocompracontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\20250409090153_tabla_orden_total_float.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\20250409090153_tabla_orden_total_float.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\20250408143723_tabla_orden_sin_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\20250408143723_tabla_orden_sin_producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143437_Tabla_Orden_Sin_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143437_Tabla_Orden_Sin_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\migrations\\20250408142911_tabla_orden_corregida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\migrations\\20250408142911_tabla_orden_corregida.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|c:\\users\\gonza\\estudios\\pr\u00E1cticas\\productos_compras_full_stack\\productos_compras_full_stack\\backend\\productos_compras_full_stack\\productos_compras_full_stack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{771E2FE9-3490-4D85-B068-5E2D44521FAB}|PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj|solutionrelative:productos_compras_full_stack\\productos_compras_full_stack.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113044_Tabla_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113044_Tabla_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113658_Tabla_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113658_Tabla_Producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 9,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductosOrdenesController.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosOrdenesController.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosOrdenesController.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosOrdenesController.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosOrdenesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEEAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:58:44.345Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductoOrdenDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoOrdenDAO.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoOrdenDAO.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoOrdenDAO.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoOrdenDAO.cs",
+              "ViewState": "AgIAAB0AAAAAAAAAAAAwwCYAAABNAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T14:28:00.086Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Orden.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Orden.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Orden.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Orden.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Orden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:01:40.026Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrdenesController.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\OrdenesController.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\OrdenesController.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\OrdenesController.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\OrdenesController.cs",
+              "ViewState": "AgIAADIAAAAAAAAAAAAIwEsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:25:51.851Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProductosController.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosController.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosController.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosController.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Controllers\\ProductosController.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAAAuwEoAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:25:54.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "OrdenDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\OrdenDAO.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\OrdenDAO.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\OrdenDAO.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\OrdenDAO.cs",
+              "ViewState": "AgIAAD4AAAAAAAAAAAAIwEkAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T12:09:43.671Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoDAO.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoDAO.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoDAO.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\DAO\\ProductoDAO.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwIkAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:18:50.803Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ProductoOrden.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrden.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrden.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrden.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrden.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:45:27.291Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20250415075226_Fecha_Orden_Corregida.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250415075226_Fecha_Orden_Corregida.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250415075226_Fecha_Orden_Corregida.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250415075226_Fecha_Orden_Corregida.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250415075226_Fecha_Orden_Corregida.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-15T07:52:27.095Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Producto.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Producto.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Producto.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\Producto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:26:00.503Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Program.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Program.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Program.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T09:28:21.309Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ProductoOrdenConfiguration.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\EntityConfigurations\\ProductoOrdenConfiguration.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\EntityConfigurations\\ProductoOrdenConfiguration.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\EntityConfigurations\\ProductoOrdenConfiguration.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\EntityConfigurations\\ProductoOrdenConfiguration.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:49:41.316Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ProductoOrdenContext.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrdenContext.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrdenContext.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrdenContext.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Models\\ProductoOrdenContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAA6AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:11:55.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "20250411104031_ProductoOrden.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411104031_ProductoOrden.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411104031_ProductoOrden.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411104031_ProductoOrden.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411104031_ProductoOrden.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAIBJwBwAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T10:40:32.131Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "20250411093707_Orden_Id_No_Requerido.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411093707_Orden_Id_No_Requerido.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411093707_Orden_Id_No_Requerido.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411093707_Orden_Id_No_Requerido.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250411093707_Orden_Id_No_Requerido.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAIBJwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-11T09:37:07.812Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "20250409082729_Tabla_Orden_Sin_Precio.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409082729_Tabla_Orden_Sin_Precio.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409082729_Tabla_Orden_Sin_Precio.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409082729_Tabla_Orden_Sin_Precio.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409082729_Tabla_Orden_Sin_Precio.cs",
+              "ViewState": "AgIAACUAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:27:29.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "20250409095545_Tabla_Orden_Total_Float_Columna.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409095545_Tabla_Orden_Total_Float_Columna.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409095545_Tabla_Orden_Total_Float_Columna.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409095545_Tabla_Orden_Total_Float_Columna.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409095545_Tabla_Orden_Total_Float_Columna.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:55:45.974Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "ProductoCompraContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\ProductoCompraContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\ProductoCompraContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\ProductoCompraContextModelSnapshot.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\ProductoCompraContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T08:35:16.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "20250409090153_Tabla_Orden_Total_Float.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409090153_Tabla_Orden_Total_Float.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409090153_Tabla_Orden_Total_Float.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409090153_Tabla_Orden_Total_Float.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250409090153_Tabla_Orden_Total_Float.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-09T09:01:53.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "20250408143723_Tabla_Orden_Sin_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143723_Tabla_Orden_Sin_Producto.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143723_Tabla_Orden_Sin_Producto.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143723_Tabla_Orden_Sin_Producto.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143723_Tabla_Orden_Sin_Producto.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:37:23.642Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "20250408143437_Tabla_Orden_Sin_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143437_Tabla_Orden_Sin_Producto.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143437_Tabla_Orden_Sin_Producto.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143437_Tabla_Orden_Sin_Producto.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408143437_Tabla_Orden_Sin_Producto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:34:37.923Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "20250408142911_Tabla_Orden_Corregida.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408142911_Tabla_Orden_Corregida.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408142911_Tabla_Orden_Corregida.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408142911_Tabla_Orden_Corregida.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408142911_Tabla_Orden_Corregida.cs",
+              "ViewState": "AgIAABYAAAAAAAAAAAAgwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T14:29:12.162Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\appsettings.json",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\appsettings.json",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\appsettings.json",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAABwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-08T11:38:26.004Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "PRODUCTOS_COMPRAS_FULL_STACK.csproj",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-04-08T12:28:09.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 24,
+              "Title": "20250408113044_Tabla_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113044_Tabla_Producto.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113044_Tabla_Producto.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113044_Tabla_Producto.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113044_Tabla_Producto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:30:45.022Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 25,
+              "Title": "20250408113658_Tabla_Producto.cs",
+              "DocumentMoniker": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113658_Tabla_Producto.cs",
+              "RelativeDocumentMoniker": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113658_Tabla_Producto.cs",
+              "ToolTip": "C:\\Users\\gonza\\ESTUDIOS\\PR\u00C1CTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113658_Tabla_Producto.cs",
+              "RelativeToolTip": "PRODUCTOS_COMPRAS_FULL_STACK\\Migrations\\20250408113658_Tabla_Producto.cs",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-08T11:36:58.673Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

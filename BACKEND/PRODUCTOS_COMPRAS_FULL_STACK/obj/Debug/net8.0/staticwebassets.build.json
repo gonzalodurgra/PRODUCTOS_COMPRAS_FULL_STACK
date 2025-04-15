@@ -1,0 +1,220 @@
+{
+  "Version": 1,
+  "Hash": "5zAmzQ+e1CS02PePdWGIWHxbMFD9ASq2O9LlTA0EPwk=",
+  "Source": "PRODUCTOS_COMPRAS_FULL_STACK",
+  "BasePath": "_content/PRODUCTOS_COMPRAS_FULL_STACK",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PRODUCTOS_COMPRAS_FULL_STACK.styles.css",
+      "SourceId": "PRODUCTOS_COMPRAS_FULL_STACK",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\bundle\\",
+      "BasePath": "_content/PRODUCTOS_COMPRAS_FULL_STACK",
+      "RelativePath": "PRODUCTOS_COMPRAS_FULL_STACK#[.{fingerprint}]?.styles.css",
+      "AssetKind": "All",
+      "AssetMode": "CurrentProject",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ApplicationBundle",
+      "Fingerprint": "3mh63rm7sj",
+      "Integrity": "VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PRODUCTOS_COMPRAS_FULL_STACK.styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css",
+      "SourceId": "PRODUCTOS_COMPRAS_FULL_STACK",
+      "SourceType": "Computed",
+      "ContentRoot": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\",
+      "BasePath": "_content/PRODUCTOS_COMPRAS_FULL_STACK",
+      "RelativePath": "PRODUCTOS_COMPRAS_FULL_STACK#[.{fingerprint}]!.bundle.scp.css",
+      "AssetKind": "All",
+      "AssetMode": "Reference",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "ScopedCss",
+      "AssetTraitValue": "ProjectBundle",
+      "Fingerprint": "3mh63rm7sj",
+      "Integrity": "VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "PRODUCTOS_COMPRAS_FULL_STACK.3mh63rm7sj.bundle.scp.css",
+      "AssetFile": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mh63rm7sj"
+        },
+        {
+          "Name": "label",
+          "Value": "PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="
+        }
+      ]
+    },
+    {
+      "Route": "PRODUCTOS_COMPRAS_FULL_STACK.3mh63rm7sj.styles.css",
+      "AssetFile": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PRODUCTOS_COMPRAS_FULL_STACK.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "3mh63rm7sj"
+        },
+        {
+          "Name": "label",
+          "Value": "PRODUCTOS_COMPRAS_FULL_STACK.styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="
+        }
+      ]
+    },
+    {
+      "Route": "PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css",
+      "AssetFile": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\projectbundle\\PRODUCTOS_COMPRAS_FULL_STACK.bundle.scp.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="
+        }
+      ]
+    },
+    {
+      "Route": "PRODUCTOS_COMPRAS_FULL_STACK.styles.css",
+      "AssetFile": "C:\\Users\\gonza\\ESTUDIOS\\PRÁCTICAS\\PRODUCTOS_COMPRAS_FULL_STACK\\PRODUCTOS_COMPRAS_FULL_STACK\\BACKEND\\PRODUCTOS_COMPRAS_FULL_STACK\\obj\\Debug\\net8.0\\scopedcss\\bundle\\PRODUCTOS_COMPRAS_FULL_STACK.styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1146"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Tue, 08 Apr 2025 09:26:16 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VRII6J32CarDmM9D8dQoCmr/6aJ9GPo/eUY0k1fquBY="
+        }
+      ]
+    }
+  ]
+}
