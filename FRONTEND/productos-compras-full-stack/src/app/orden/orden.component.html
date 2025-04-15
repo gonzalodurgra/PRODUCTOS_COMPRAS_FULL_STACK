@@ -1,0 +1,12 @@
+<h2>Órdenes</h2>
+<ul class="ordenes">
+    <li *ngFor="let orden of ordenes">
+        Pedido <span>{{orden.id}}</span> a {{orden.fecha | date:'dd/MM/yyyy'}} de {{orden.total | currency:'EUR':'symbol':'1.2-2'}},
+        con los productos: <span *ngFor="let productoOrden of orden.productoOrdenes">{{obtenerNombreProducto(productoOrden.productoId)}} </span>
+    </li>
+    <select multiple="true" (change)="onProductoSeleccionado($event)">
+        <option *ngFor="let producto of productos"[value]="producto.id">{{producto.nombre}}</option>
+    </select>
+</ul>
+<button (click)="add()">Añadir orden</button>
+<button (click)="goBack()">Volver a productos</button>

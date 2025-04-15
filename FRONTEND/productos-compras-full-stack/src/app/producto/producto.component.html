@@ -1,0 +1,19 @@
+<h2>Productos</h2>
+<ul class="productos">
+    <li *ngFor="let producto of productos">
+        <a routerLink="/productos/{{producto.id}}">
+            <span>{{producto.id}}</span> {{producto.nombre}} a {{producto.precio | currency:'EUR':'symbol':'1.2-2'}}, en {{producto.stock}} unidades
+        </a>
+        <button title="borra producto" (click)="delete(producto)">x</button>
+    </li>
+</ul>
+<div>
+    <label>Nombre</label>
+    <input #nombre>
+    <label>Precio</label>
+    <input #precio type="number">
+    <label>Stock</label>
+    <input #stock type="number">
+    <button (click)="add(nombre.value, +precio.value, +stock.value); nombre.value=''; precio.value=''; stock.value=''">Añadir</button><br><br>
+    <a routerLink="/ordenes">Solicita productos</a>
+</div>
