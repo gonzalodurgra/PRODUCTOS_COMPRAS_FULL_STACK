@@ -10,7 +10,7 @@ Tenemos 2 ficheros DockerFile:
 - **Adicional**: Necesitamos la base de datos que respalda el backend, para ello, he usado *postgres* como imagen.
 - **Persistencia y entorno**: Se ha creado un volumen para guardar lo que hay en la base de datos, además de todos los bind mounts para poder editar en Angular directamente desde el anfitrión. Se han aportado como variables de entorno:
 la base de datos junto al usuario y contraseña, además de tener la conexión del backend y el modo Development para permitir detectar ciertos errores. Mencionar que todos los contenedores conectan en una red.
-- [Docker-Compose](docker-compose-yaml)
+- [Docker-Compose](docker-compose.yaml)
 ## Codificación en el Backend
 - **Program**: Principalmente habilitamos CORS para poder comunicarnos desde el frontend con el backend. Además, habilitamos NewtonSoftJson. [Program](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/Program.cs)
 - **Models**: Esta carpeta contiene el contexto de la base de datos, los modelos y las configuraciones de entidades para realizar migraciones a la base de datos en PostgreSQL. [Models](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/Models/)
@@ -26,3 +26,5 @@ la base de datos junto al usuario y contraseña, además de tener la conexión d
 - **Componente producto**: Será la interfaz de usuario que permite ver todos los productos y  borrarlos, junto a su formulario de inserción [Producto](FRONTEND/productos-compras-full-stack/src/app/producto/)
 - **Componente para detallar el producto**: Permite la actualización del producto seleccionado principalmente. [Detalles del producto](FRONTEND/productos-compras-full-stack/src/app/producto-detalles/)
 - *Adicionalmente, se puede implementar como futuras mejoras si la aplicación se vuelve más grande un dashboard componente para mensajes*
+## Levantando el proyecto
+- Sitúate en el [directorio del docker-compose.yaml](/) (la raíz del proyecto), ejecutando el comando **docker-compose up --build**. En VSCode también tienes la opción de abrir el proyecto también desde la raíz y con el plugin de Docker instalado puedes ejecutar todos los servicios directamente desde el código sin necesidad de escribir comandos a mano, pulsando en Run all services. 
