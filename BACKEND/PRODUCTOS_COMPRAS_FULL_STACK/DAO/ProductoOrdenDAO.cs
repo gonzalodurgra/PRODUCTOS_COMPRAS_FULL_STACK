@@ -28,29 +28,43 @@ namespace PRODUCTOS_COMPRAS_FULL_STACK.DAO
             return await _context.ProductoOrden.FindAsync(id);
         }
 
-        public async Task<bool> AgregarAsync(int productoId)
+        public async Task<bool> AgregarAsync(List<int> productoIds)
         {
             using var transaction = await _context.Database.BeginTransactionAsync();
             try
             {
-                var producto = await _context.Producto.FindAsync(productoId);
-                var total = producto.Precio * producto.stock;
-                // Crear nueva orden
-                var orden = new Orden { Fecha = DateTime.Now.ToUniversalTime(), total = total };
+                // Crear orden vacía
+                var orden = new Orden { Fecha = DateTime.UtcNow };
                 _context.Orden.Add(orden);
                 await _context.SaveChangesAsync();
 
-                // Crear relación con producto
-                var productoOrden = new ProductoOrden
+                float total = 0;
+
+                foreach (var productoId in productoIds)
                 {
-                    OrdenId = orden.Id,
-                    ProductoId = productoId
-                };
-                _context.ProductoOrden.Add(productoOrden);
+                    var producto = await _context.Producto.FindAsync(productoId);
+                    if (producto == null)
+                        continue; // O puedes lanzar excepción si el producto no existe
+
+                    // Sumar al total
+                    total += producto.Precio;
+
+                    // Crear relación con producto
+                    var productoOrden = new ProductoOrden
+                    {
+                        OrdenId = orden.Id,
+                        ProductoId = producto.Id
+                    };
+                    _context.ProductoOrden.Add(productoOrden);
+                }
+
+                // Guardar relaciones
                 await _context.SaveChangesAsync();
 
-                // Calcular total si quieres
-                
+                // Actualizar total de la orden
+                orden.total = total;
+                _context.Orden.Update(orden);
+                await _context.SaveChangesAsync();
 
                 await transaction.CommitAsync();
                 return true;
