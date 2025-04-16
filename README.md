@@ -14,7 +14,7 @@ la base de datos junto al usuario y contraseña, además de tener la conexión d
 ## Codificación en el Backend
 - **Program**: Principalmente habilitamos CORS para poder comunicarnos desde el frontend con el backend. Además, habilitamos NewtonSoftJson. [Program](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/Program.cs)
 - **Models**: Esta carpeta contiene el contexto de la base de datos, los modelos y las configuraciones de entidades para realizar migraciones a la base de datos en PostgreSQL. [Models](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/Models/)
--  **DAO**: Aquí tenemos las clases de acceso a datos, poniendo así una capa intermedia entre controlador y datos. [DAO](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/DAO/)
+-  **DAO**: Aquí tenemos las clases de acceso a datos, poniendo así una capa intermedia entre controlador y datos. [DAO](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/DAO/) Destacar que en [ProductoOrdenDao](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/DAO/productoOrdenDAO.cs) se ha utilizado una transacción, ya que no interesa si no se ha insertado correctamente la relación entre Orden y Producto que permanezca una orden de compra sin relación.
 -  **Controllers**: El directorio del proyecto que contendrá los controladores para comunicación con la base de datos a través de los diferentes métodos HTTP. [Controllers](BACKEND/PRODUCTOS_COMPRAS_FULL_STACK/Controllers/)
 -  *Existen carpetas adicionales, pero las principales para realizar la actividad son éstas.*
 ## Codificación en el Frontend
