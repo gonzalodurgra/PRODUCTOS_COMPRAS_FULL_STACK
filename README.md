@@ -27,4 +27,6 @@ la base de datos junto al usuario y contraseña, además de tener la conexión d
 - **Componente para detallar el producto**: Permite la actualización del producto seleccionado principalmente. [Detalles del producto](FRONTEND/productos-compras-full-stack/src/app/producto-detalles/)
 - *Adicionalmente, se puede implementar como futuras mejoras si la aplicación se vuelve más grande un dashboard componente para mensajes*
 ## Levantando el proyecto
-- Sitúate en el [directorio del docker-compose.yaml](/) (la raíz del proyecto), ejecutando el comando **docker-compose up --build**. En VSCode también tienes la opción de abrir el proyecto también desde la raíz y con el plugin de Docker instalado puedes ejecutar todos los servicios directamente desde el código sin necesidad de escribir comandos a mano, pulsando en Run all services. 
+- Sitúate en el [directorio del docker-compose.yaml](/) (la raíz del proyecto), ejecutando el comando **docker-compose up --build**. En VSCode también tienes la opción de abrir el proyecto también desde la raíz y con el plugin de Docker instalado puedes ejecutar todos los servicios directamente desde el código sin necesidad de escribir comandos a mano, pulsando en Run all services.
+- Para acceder a la aplicación realizada en Angular, escribe la URL localhost:4200, la cual te llevará a los productos que existen en la base de datos.
+- Puedes probar además la API en PostMan con localhost:8080, que es el puerto al que se redirecciona el backend en el anfitrión.
